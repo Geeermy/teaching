@@ -1,0 +1,7 @@
+0M, 1H, 5M, 7M, 10M, 13M, 4M, 6H
+HR=0.25
+ÍNDICE LÍNEA | TAG | BIT VALIDEZ
+00 | 0 | 1
+01 | 1 | 1
+10 | 0 | 1
+11 | 0 | 1
